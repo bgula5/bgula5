@@ -1,2 +1,3 @@
-## Walter Blake Gula
-# projects to be uploaded soon 
+## Hello! My name is Walter Blake Gula
+# I am a devoted Software engineer from Atlanta GA
+
