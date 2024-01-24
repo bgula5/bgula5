@@ -1,6 +1,6 @@
 ![alt text](https://pbs.twimg.com/media/Dy8TETfXgAAVk9q.jpg)
 # 💫 About Me:
-Hello! My name is Blake and I am a Software Dev for the City Of Roswell creating Web applications and databasing. <br>I finish my BS in Computer Science in December. <br>I'm currently learning about AI development.<br> 
+Hello! My name is Blake and I am a Software Dev for the City Of Roswell creating Web applications and databasing. 
 
 
 # 💻 Tech Stack:
